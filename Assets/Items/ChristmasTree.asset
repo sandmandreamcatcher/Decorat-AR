@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _preview: {fileID: 21300000, guid: e31eaffe923dcd342aa4a65c0de2ab01, type: 3}
   _label: Christmas Tree
-  _prefab: {fileID: 6236424202643910183, guid: 36badc13e5ece884ba7ea75d11e7155e, type: 3}
+  _prefab: {fileID: 105522, guid: 8044f7fc9e0fa3247bf5b7e686882aab, type: 3}

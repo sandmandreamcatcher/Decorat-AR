@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0e23df006da5e74bbb06d94e502053b, type: 3}
   m_Name: Candy
   m_EditorClassIdentifier: 
-  _preview: {fileID: 21300000, guid: e5b4d3c1465710e41b2a7e8ac36b493a, type: 3}
+  _preview: {fileID: 21300000, guid: ce252de226bb1f340988c54d3c967a58, type: 3}
   _label: Candy Cane
-  _prefab: {fileID: 4145084462543955964, guid: ea2a380502344204c91f7a3f1995ede4, type: 3}
+  _prefab: {fileID: 193638, guid: e7b730946c7cdbb41bc1d7911633430b, type: 3}
