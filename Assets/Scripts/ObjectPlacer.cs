@@ -31,7 +31,7 @@ public class ObjectPlacer : MonoBehaviour
 
     private void UpdatePlacementPose()
     {
-        Vector2 screenCenter = _camera.ViewportToScreenPoint(new Vector2(0.1f, 0.1f));
+        Vector2 screenCenter = _camera.ViewportToScreenPoint(new Vector2(0.5f, 0.5f));
 
         var ray = _camera.ScreenPointToRay(screenCenter);
 
