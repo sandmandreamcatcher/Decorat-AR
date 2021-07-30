@@ -9,6 +9,7 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="ItemView.cs" t="Include" />
+          <e p="ObjectPlacer.cs" t="Include" />
           <e p="ScriptableObject" t="Include">
             <e p="ItemData.cs" t="Include" />
           </e>
